@@ -1,4 +1,4 @@
-package Creacionales.factory;
+package Creacionales.Factory;
 
 public class LibroNovelasFactory implements LibrosFactory {
     @Override

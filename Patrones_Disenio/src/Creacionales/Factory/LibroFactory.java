@@ -1,4 +1,4 @@
-package Creacionales.factory;
+package Creacionales.Factory;
 
 public class LibroFactory {
     public LibrosFactory createLibro(String type){

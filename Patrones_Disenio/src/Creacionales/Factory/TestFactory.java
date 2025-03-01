@@ -1,4 +1,4 @@
-package Creacionales.factory;
+package Creacionales.Factory;
 
 public class TestFactory {
     public static void main(String[] args) {
